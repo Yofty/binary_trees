@@ -2,8 +2,8 @@
 
 /**
  * binary_tree_postorder - goes through a binary tree using post-order traversal
- * @tree: the tree to be traversed
- * @func: the pointer to the function to be called in each node
+ * @tree : pointer to the tree to be traversed
+ * @func : the pointer to the function to be called in each node
  *
  * Return: nothing
  */
